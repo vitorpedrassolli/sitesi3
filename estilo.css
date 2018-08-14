@@ -1,9 +1,10 @@
 body{
-    background-color: blue
+    background-color: gray
 }
 
 
 .txt-red{
     color: red;
-    font-size: 48px
+    font-size: 48px;
+    font-weight: bold;
 }
